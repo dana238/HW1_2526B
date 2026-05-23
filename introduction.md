@@ -15,16 +15,11 @@ To make things a bit more fun, each TA added a link to song/video we would like 
 
 ## Your Part!
 
-Tell us a bit about yourselves! 
+Tell us a bit about yourselves!
+	- First student's name:Dana arshed
+	- Favorite singer:adele
+	- Favorite song:skyfall
+	- Desirable grade in Matam:85+
+	- which TA's song you liked the most:Daniel
 
-	- First student's name:
-	- Favorite singer:
-	- Favorite song:
-	- Desirable grade in Matam:
-	- which TA's song you liked the most:
-
-	- Second student's name:
-	- Favorite singer:
-	- Favorite song:
-	- Desirable grade in Matam:
-	- which TA's song you liked the most: 
+	 
